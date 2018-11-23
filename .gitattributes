@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 *.js linguist-language=Java
 *.css linguist-language=Java
 *.html linguist-language=Java
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> branch 'master' of https://github.com/chunqiuqixing/SpringBoot_Shiro_Mybatis_PermissionManagementSystem.git
